@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a4af66b-7ed1-4dbd-8b9f-f79f525f9f54" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Prefabs/GamePlay/Stickman.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/GamePlay/Stickman.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/GamePlay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/GamePlay.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/Loading.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Loading.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/HandGestureControllerUDP.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AI/HandGestureControllerUDP.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/InputManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AI/InputManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CanvasManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CanvasManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GamePlay/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GamePlay/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GamePlay/Stickman.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GamePlay/Stickman.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeySave.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KeySave.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/GameLobbyManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/GameLobbyManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/InitCommunication.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/InitCommunication.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/LobbyManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/LobbyManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/MatchMakingController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/MatchMakingController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/WindowControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lobby/WindowControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/GenericSingleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/GenericSingleton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprites/Anim/CHAR_Cactus.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprites/Anim/CHAR_Cactus.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprites/Anim/CHAR_Classic.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprites/Anim/CHAR_Classic.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprites/Anim/CHAR_EvilStick.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprites/Anim/CHAR_EvilStick.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprites/Anim/CHAR_LemonMan.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprites/Anim/CHAR_LemonMan.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprites/Anim/CHAR_Momie.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprites/Anim/CHAR_Momie.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprites/Anim/sactx-1-512x512-ETC2-Page 3-356aa028.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprites/Anim/sactx-1-512x512-ETC2-Page 3-356aa028.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprites/Stickman.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprites/Stickman.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CanvasManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelManager/CameraMove.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelManager/ClickToDestroy.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2nvwceLTDGNSOlZu4SEbnkA0vXp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a4af66b-7ed1-4dbd-8b9f-f79f525f9f54" name="Changes" comment="" />
+      <created>1729866937305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729866937305</updated>
+      <workItem from="1729866938463" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
