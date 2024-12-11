@@ -90,7 +90,7 @@ public class CharacterSelectionManager : GenericSingleton<CharacterSelectionMana
         });
     }
 
-    private void HandleEnterGameplay()
+    public void HandleEnterGameplay()
     {
         UnityMainThreadDispatcher.Instance().Enqueue(() => {
             DataTransition.instance.SetCharacterSprites(

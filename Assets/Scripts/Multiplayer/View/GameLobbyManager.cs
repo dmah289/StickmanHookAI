@@ -88,6 +88,7 @@ public class GameLobbyManager : GenericSingleton<GameLobbyManager>
     public void OnStartPressed()
     {
         DataTransition.instance.gameState = GameState.LOADING;
+        CharacterSelectionManager.instance.HandleEnterGameplay();
         _lobby.DOScale(Vector3.zero, 1f).SetEase(Ease.InBack).OnComplete(() =>
         {
             CanvasManager.instance.EnterGameplay();

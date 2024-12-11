@@ -2915,37 +2915,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1126550643}
   m_CullTransparentMesh: 1
---- !u!1 &1166641010
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1166641011}
-  m_Layer: 0
-  m_Name: GestureListener
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1166641011
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1166641010}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1173435301
 GameObject:
   m_ObjectHideFlags: 0
@@ -3409,6 +3378,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 228fd192e9c18b1408a5f4ebf7bd8f2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _localPlayerDataLobby: {fileID: 0}
 --- !u!1 &1368375953
 GameObject:
   m_ObjectHideFlags: 0
@@ -5338,7 +5308,6 @@ SceneRoots:
   - {fileID: 1173435305}
   - {fileID: 1895478270}
   - {fileID: 1003838965}
-  - {fileID: 1166641011}
   - {fileID: 194359764}
   - {fileID: 1310181452}
   - {fileID: 1205193396}
